@@ -7,8 +7,6 @@ author_profile: true
 
 ## Resilience • AI • Infrastructure • Systems • Education
 
----
-
 ## Vision
 
 The R.A.I.S.E. framework represents a holistic approach to strengthening water and civil infrastructure through the responsible integration of emerging technologies, systems thinking, and transformative education. As our infrastructure systems face unprecedented challenges—aging assets, climate change, resource constraints, and evolving demands—we need frameworks that bridge traditional engineering with cutting-edge innovation.
