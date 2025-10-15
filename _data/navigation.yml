@@ -11,11 +11,6 @@ main:
   - title: "R.A.I.S.E. Framework"
     url: /raise/
     
-  - title: "Research Projects"
-    url: /projects/
-    
   - title: "Publications"
     url: /publications/
     
-  - title: "CV"
-    url: /cv/
