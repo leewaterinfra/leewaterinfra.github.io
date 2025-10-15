@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<img src="/images/profile.jpg" alt="Dr. Juneseok Lee" width="300" style="float: right; margin-left: 20px; margin-bottom: 20px;">
 
 ## Infrastructure Scientist | AI for Resilient Water Systems
 
