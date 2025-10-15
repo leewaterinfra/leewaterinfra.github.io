@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Professor of Civil & Environmental Engineering | AI for Resilient Water Systems | Founder of R.A.I.S.E. Framework"
   location         : "Manhattan University, New York"
-  employer         : "Red Brick University"
+  #employer         : "Red Brick University"
   uri              : # URL
   email            : "juneseok.lee@manhattan.edu" 
 
