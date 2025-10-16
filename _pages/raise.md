@@ -5,6 +5,11 @@ permalink: /raise/
 author_profile: true
 ---
 
+
+<div style="text-align: center; margin: 30px 0;">
+  <img src="/images/raise.png" alt="R.A.I.S.E. Framework Logo" width="500">
+</div>
+
 ## Resilience • AI • Infrastructure • Systems • Education
 
 ## Vision
