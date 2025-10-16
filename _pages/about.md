@@ -41,6 +41,7 @@ Dr. Lee founded the R.A.I.S.E. framework—**Resilience, AI, Infrastructure, Sys
 - **Associate Editor**: AWWA Water Science
 - **Licensed Professional Engineer** (California)
 - **Board Certified Water Resources Engineer** (BC.WRE)
+- **California Water Service Company Chair Professor**
 
 ### Connect
 
