@@ -169,7 +169,6 @@ As infrastructure challenges evolve, so will R.A.I.S.E. Emerging focus areas inc
 
 ---
 
----
 
 ## Join the R.A.I.S.E. Mission
 
