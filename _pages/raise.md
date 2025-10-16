@@ -150,7 +150,7 @@ The R.A.I.S.E. framework has guided research that has:
 
 The framework extends beyond individual research to build a community of practice:
 
-- **Academic partners**: Collaborations with Purdue, Michigan State, Virginia Tech, and others
+- **Academic partners**: Collaborations with University of Delaware, Rutgers University, and other leading institutions
 - **Industry partners**: Water utilities, consulting firms, and technology companies
 - **Professional societies**: Leadership in ASCE, AWWA, and EWRI
 - **Students and early-career engineers**: Mentorship and career development
