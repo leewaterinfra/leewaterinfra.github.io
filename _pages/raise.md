@@ -123,7 +123,7 @@ The R.A.I.S.E. framework has guided research that has:
 
 ---
 
-## Current R.A.I.S.E. Projects
+## Recent R.A.I.S.E. Projects
 
 ### NSF-Funded Education Initiative
 *Developing Students' Systems Thinking and Data Analytics Skills in Civil and Environmental Engineering*
