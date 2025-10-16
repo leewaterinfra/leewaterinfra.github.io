@@ -23,15 +23,11 @@ repository               : "leewaterinfra/leewaterinfra.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "/images/leefaculty2025.jpg"
   name             : "Juneseok Lee"
-  pronouns         : # example: "she/her"  
+  avatar           : "https://leewaterinfra.github.io/images/leefaculty2025.jpg"
   bio              : "Professor of Civil & Environmental Engineering | AI for Resilient Water Systems | Founder of R.A.I.S.E. Framework"
   location         : "Manhattan University, New York"
-  #employer         : "Red Brick University"
-  uri              : # URL
-  email            : "juneseok.lee@manhattan.edu" 
+  email            : "juneseok.lee@manhattan.edu"
 
   # Academic websites
   academia         : # URL
