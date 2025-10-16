@@ -169,7 +169,60 @@ As infrastructure challenges evolve, so will R.A.I.S.E. Emerging focus areas inc
 
 ---
 
+---
+
 ## Join the R.A.I.S.E. Mission
 
-**For prospective students:**  
-I'm recruiting graduate students passionate about using AI and analytics to sol
+### For Prospective Graduate Students
+
+I'm recruiting motivated graduate students passionate about using AI and analytics to solve real-world infrastructure challenges. **Research assistantships available** for qualified candidates interested in:
+
+- Machine learning for water infrastructure
+- Predictive analytics and optimization
+- Premise plumbing and building water systems
+- Climate resilience and adaptation
+- Digital transformation in civil engineering
+
+**Interested?** Email me at juneseok.lee@manhattan.edu with your CV and research interests.
+
+---
+
+### For Researchers and Practitioners
+
+Interested in collaboration on water infrastructure, AI applications, or systems thinking research? Let's explore how the R.A.I.S.E. framework can advance your work.
+
+**Areas for collaboration:**
+- Joint research projects and publications
+- Proposal development
+- Industry-academic partnerships
+- Visiting scholar opportunities
+
+---
+
+### For Utilities and Agencies
+
+Looking for research partnerships or technical expertise? I welcome opportunities to:
+
+- Apply cutting-edge analytics to operational challenges
+- Develop decision support tools
+- Provide expert guidance on infrastructure resilience
+- Collaborate on grant-funded research
+
+**Past partners include:** California Water Service, EPA, NSF
+
+---
+
+## Contact
+
+**Juneseok Lee, Ph.D.,P.E.**  
+Professor of Civil and Environmental Engineering  
+Manhattan University  
+Riverdale, NY 10471
+
+📧 juneseok.lee@manhattan.edu  
+📞 718-862-7318  
+🔗 [Google Scholar](https://scholar.google.com/citations?user=zu_URxAAAAAJ&hl=en) | [Faculty Profile](https://manhattan.edu/campus-directory/jlee04) | [GitHub](https://github.com/leewaterinfra)
+
+---
+
+*"The R.A.I.S.E. framework is not just about technology—it's about building a more resilient, equitable, and sustainable future through smarter infrastructure."*
