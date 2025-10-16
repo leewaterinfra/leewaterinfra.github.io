@@ -9,7 +9,7 @@ author_profile: true
 
 **2,000+ citations** | **130+ publications** | **7 books** | **h-index visible on [Google Scholar](https://scholar.google.com/citations?user=zu_URxAAAAAJ&hl=en)**
 
----
+
 
 ## Books & Edited Volumes
 
