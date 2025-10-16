@@ -18,11 +18,12 @@ author_profile: true
 1. **Smart Technology Applications in Water Management** (2025)  
    *Edited by T. Younos, J. Lee, and T. Parece*  
    Springer Nature  
-   [Link](https://link.springer.com/book/)
+   [View Book](https://link.springer.com/book/9783031625428)
 
 2. **AWWA M22 Sizing Water Service Lines And Meters, 4th Edition** (2024)  
    *Steering Committee Member and Contributing Author*  
-   ISBN: 9781647171247
+   ISBN: 9781647171247  
+   [View on AWWA](https://www.awwa.org/Store/Product-Details/productId/78751885)
 
 3. **Premise Plumbing Modeling** (2023)  
    *ASCE (J. Lee, Committee Chair)*  
@@ -30,21 +31,24 @@ author_profile: true
 
 4. **Alternative Water Sources for Producing Potable Water** (2023)  
    *Edited by T. Younos, J. Lee, and T. Parece*  
-   Springer Nature
+   Springer Nature  
+   [View Book](https://link.springer.com/book/10.1007/978-3-031-47148-7)
 
 5. **Embracing Analytics in the Drinking Water Industry** (2022)  
    *Edited by J. Lee and J. Keck*  
    IWA Publishing  
-   [Link](https://www.iwapublishing.com/books/9781789062373/embracing-analytics-drinking-water-industry)
+   [View Book](https://www.iwapublishing.com/books/9781789062373/embracing-analytics-drinking-water-industry)
 
 6. **Resilient Water Management Strategies in Urban Settings** (2022)  
    *Edited by T. Younos, J. Lee, and T. Parece*  
-   Springer Water
+   Springer Water  
+   [View Book](https://link.springer.com/book/10.1007/978-3-030-95844-2)
 
 7. **Socio-Hydrology: The New Paradigm in Resilient Water Management** (2021)  
    *Edited by T. Younos, T. Parece, J. Lee, J. Giovannettone, and A. Armel*  
-   MDPI Books
-
+   MDPI Books  
+   [View Book](https://www.mdpi.com/books/pdfview/book/4546)
+   
 ---
 
 ## Award-Winning Publications
