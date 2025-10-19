@@ -14,7 +14,7 @@ The R.A.I.S.E. framework represents a holistic approach to strengthening water a
 
 ---
 
-****Note: The R.A.I.S.E. framework has guided Dr. Lee's research across water infrastructure domains. Current work emphasizes the application of R.A.I.S.E. principles to building water distribution systems, digital twins, and autonomous control for integrated water-energy-quality (WEQ) optimization.*****
+<small>*Note: The R.A.I.S.E. framework has guided Dr. Lee's research across water infrastructure domains. Current work emphasizes the application of R.A.I.S.E. principles to building water distribution systems, digital twins, and autonomous control for integrated water-energy-quality (WEQ) optimization.*</small>
 ---
 <div style="text-align: center; margin: 30px 0;">
   <img src="/images/raise.png" alt="R.A.I.S.E. Framework Logo" width="500">
