@@ -12,13 +12,13 @@ author_profile: true
 
 The R.A.I.S.E. framework represents a holistic approach to strengthening water and civil infrastructure through the responsible integration of emerging technologies, systems thinking, and transformative education. As our infrastructure systems face unprecedented challenges—aging assets, climate change, resource constraints, and evolving demands—we need frameworks that bridge traditional engineering with cutting-edge innovation.
 
+---
+
+****Note: The R.A.I.S.E. framework has guided Dr. Lee's research across water infrastructure domains. Current work emphasizes the application of R.A.I.S.E. principles to building water distribution systems, digital twins, and autonomous control for integrated water-energy-quality (WEQ) optimization.*****
+---
 <div style="text-align: center; margin: 30px 0;">
   <img src="/images/raise.png" alt="R.A.I.S.E. Framework Logo" width="500">
 </div>
----
-
-*Note: The R.A.I.S.E. framework has guided Dr. Lee's research across water infrastructure domains. Current work emphasizes the application of R.A.I.S.E. principles to building water distribution systems, digital twins, and autonomous control for integrated water-energy-quality (WEQ) optimization.*
----
 
 
 ## The Five Pillars
