@@ -26,11 +26,16 @@ Dr. Lee founded the R.A.I.S.E. framework—**Resilience, AI, Infrastructure, Sys
 
 ### Current Research Focus
 
-- AI-driven predictive and prescriptive analytics for water infrastructure
-- Premise plumbing modeling for building water systems
-- Digital transformation in civil engineering
-- Water infrastructure resilience and sustainability
-- Engineering education innovation
+Dr. Lee's research centers on making water infrastructure systems 
+more intelligent, resilient, and sustainable through advanced 
+analytics, modeling, and emerging technologies.
+
+### Current emphasis areas:
+
+- Building water distribution systems and premise plumbing
+- Digital twins and real-time modeling for water infrastructure
+- AI/ML applications for water quality and system optimization
+- Integrated water-energy-quality (WEQ) analysis
 
 ### Recognition
 
