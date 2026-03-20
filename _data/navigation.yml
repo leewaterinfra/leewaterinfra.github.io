@@ -8,8 +8,6 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "R.A.I.S.E. Framework"
-    url: /raise/
     
   - title: "Publications"
     url: /publications/
