@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Dr. Juneseok Lee"
 title_separator          : "-"
 name                     : &name "Juneseok Lee, Ph.D.,P.E."
-description              : &description "Professor of Civil and Environmental Engineering | Infrastructure Scientist"   # Update this with a general description of your site, this is the default if not overridden by a page
+description: &description "Founder of iBWS — Intelligent Building Water Systems | ASCE Fellow | Digital Twins for Water Infrastructure"
 url                      : "https://leewaterinfra.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
                                                             # Updated avatar 2025
@@ -25,8 +25,8 @@ repository               : "leewaterinfra/leewaterinfra.github.io"
 author:
   name             : "Juneseok Lee"
   avatar           : "https://leewaterinfra.github.io/images/leefaculty2025.jpg"
-  bio              : "Professor of Civil & Environmental Engineering | AI for Resilient Water Systems | Founder of R.A.I.S.E. Framework"
-  location         : "Manhattan University, New York"
+  bio: "Professor of Civil & Environmental Engineering | Founder, iBWS — Intelligent Building Water Systems | ASCE Fellow | On sabbatical 2025–2026"
+  location: "Manhattan University"
   email            : "juneseok.lee@manhattan.edu"
 
   # Academic websites
