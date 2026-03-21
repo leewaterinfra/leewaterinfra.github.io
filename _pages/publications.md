@@ -127,7 +127,7 @@ Lee, J., & Meehan, M. (2017). Survival Analysis of Water Service Lines utilizing
 **For the full list of 130+ publications, citation metrics, and co-author network:**
 
 <div style="text-align: center; margin: 30px 0;">
-  <a href="https://scholar.google.com/citations?user=zu_URxAAAAAJ&hl=en" 
+  <a href="https://scholar.google.com/citations?user=VPOh9yoAAAAJ&hl=en" 
      style="display: inline-block; padding: 15px 30px; background-color: #4285f4; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px;">
     📚 View Complete Profile on Google Scholar
   </a>
