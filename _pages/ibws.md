@@ -4,6 +4,10 @@ title: "iBWS: Intelligent Building Water Systems"
 excerpt: "Autonomous digital twins for building water infrastructure"
 author_profile: true
 ---
+<br>
+<p align="center">
+  <img src="/images/ibws_logo.svg" alt="iBWS — Intelligent Building Water Systems" width="600"/>
+</p>
 
 ## Autonomous Digital Twins for Building Water Infrastructure
 
