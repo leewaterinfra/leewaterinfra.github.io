@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 130" width="1040" height="260">
+<rect width="520" height="130" rx="12" fill="#ffffff" stroke="#E0DDD6" stroke-width="1"/>
+<defs><clipPath id="pc"><rect x="14" y="12" width="106" height="106" rx="9"/></clipPath></defs>
+<rect x="14" y="12" width="106" height="106" rx="9" fill="#A8D4EE"/>
+<!-- Sky horizon fade -->
+<rect x="14" y="60" width="106" height="58" rx="0" fill="#C8E8F5" opacity="0.55"/>
+<g clip-path="url(#pc)">
+
+  <!-- Sun -->
+  <!-- Sun glow halo -->
+  <circle cx="98" cy="28" r="17" fill="#FDEEA0" opacity="0.35"/>
+  <!-- Cloud 1: small wispy -->
+  <ellipse cx="32" cy="21" rx="7" ry="2.8" fill="white" opacity="0.75"/>
+  <ellipse cx="39" cy="20" rx="5" ry="2.5" fill="white" opacity="0.7"/>
+  <ellipse cx="27" cy="22" rx="4" ry="2" fill="white" opacity="0.65"/>
+  <!-- Cloud 2: tiny wisp -->
+  <ellipse cx="68" cy="15" rx="5" ry="2" fill="white" opacity="0.6"/>
+  <ellipse cx="74" cy="14" rx="3.5" ry="1.8" fill="white" opacity="0.55"/>
+  <!-- Sun -->
+  <circle cx="98" cy="28" r="10" fill="#FFD700"/>
+  <line x1="110" y1="28" x2="118" y2="28" stroke="#FFE566" stroke-width="2" stroke-linecap="round"/>
+  <line x1="106.1" y1="18.9" x2="112.5" y2="12.5" stroke="#FFE566" stroke-width="2" stroke-linecap="round"/>
+  <line x1="98" y1="16" x2="98" y2="8" stroke="#FFE566" stroke-width="2" stroke-linecap="round"/>
+  <line x1="89.9" y1="18.9" x2="83.5" y2="12.5" stroke="#FFE566" stroke-width="2" stroke-linecap="round"/>
+  <line x1="86" y1="28" x2="78" y2="28" stroke="#FFE566" stroke-width="2" stroke-linecap="round"/>
+  <line x1="89.9" y1="37.1" x2="83.5" y2="43.5" stroke="#FFE566" stroke-width="2" stroke-linecap="round"/>
+  <line x1="98" y1="40" x2="98" y2="48" stroke="#FFE566" stroke-width="2" stroke-linecap="round"/>
+  <line x1="106.1" y1="37.1" x2="112.5" y2="43.5" stroke="#FFE566" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Back mountains: dark forest green, taller peaks -->
+  <polygon points="14,84 36,42 60,84" fill="#3D6130"/>
+  <polygon points="46,84 76,36 106,84" fill="#3D6130"/>
+  <polygon points="88,84 113,48 120,54 120,84" fill="#3D6130"/>
+
+  <!-- Front mountains: brighter sage, lower peaks, overlapping back -->
+  <polygon points="14,84 30,55 52,84" fill="#6B9E52"/>
+  <polygon points="40,84 64,50 90,84" fill="#5C8A45"/>
+  <polygon points="76,84 98,58 120,84" fill="#6B9E52"/>
+
+  <!-- Soil -->
+  <!-- Soil layers -->
+  <rect x="14" y="82" width="106" height="36" fill="#8B5728"/>
+  <rect x="14" y="82" width="106" height="22" fill="#A06535"/>
+  <!-- Ground surface grass -->
+  <rect x="14" y="82" width="106" height="4" fill="#4A7A38"/>
+  <!-- Grassy bank below road -->
+  <rect x="14" y="97" width="106" height="5" fill="#4A7A38"/>
+  <!-- Grass tufts on bank -->
+  <line x1="22" y1="97" x2="20" y2="93" stroke="#5C8A45" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="25" y1="97" x2="27" y2="93" stroke="#5C8A45" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="38" y1="97" x2="36" y2="93" stroke="#5C8A45" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="41" y1="97" x2="43" y2="93" stroke="#5C8A45" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="58" y1="97" x2="56" y2="93" stroke="#5C8A45" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="75" y1="97" x2="77" y2="93" stroke="#5C8A45" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="90" y1="97" x2="88" y2="93" stroke="#5C8A45" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="105" y1="97" x2="107" y2="93" stroke="#5C8A45" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- Surface river: wide band sitting ON the ground -->
+  <path d="M14,102 Q40,99 65,102 Q90,106 120,102 L120,112 Q90,115 65,112 Q40,109 14,112 Z" fill="#3A7FAA"/>
+  <path d="M14,102 Q40,99 65,102 Q90,106 120,102 L120,110 Q90,113 65,110 Q40,107 14,110 Z" fill="#5BAFD6"/>
+  <!-- Shimmer highlights -->
+  <path d="M20,105 Q50,102 80,106 Q100,108 116,105" fill="none" stroke="#8FCFE8" stroke-width="1.3" stroke-linecap="round" opacity="0.8"/>
+  <path d="M18,108 Q45,105 75,109 Q98,112 114,108" fill="none" stroke="#7AC4E2" stroke-width="0.8" stroke-linecap="round" opacity="0.6"/>
+  <!-- Grassy far bank -->
+  <rect x="14" y="112" width="106" height="4" fill="#4A7A38"/>
+  <!-- Far bank tufts -->
+  <line x1="30" y1="112" x2="28" y2="108" stroke="#5C8A45" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="50" y1="112" x2="52" y2="108" stroke="#5C8A45" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="70" y1="112" x2="68" y2="108" stroke="#5C8A45" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="95" y1="112" x2="97" y2="108" stroke="#5C8A45" stroke-width="1.2" stroke-linecap="round"/>
+
+  <!-- Building: base at y=82 (road level) so road hides base and building looks grounded -->
+  <!-- Small building LEFT: short, narrow -->
+  <polygon points="18,88 28,88 28,54 18,54" fill="#4E7A96"/>
+  <rect x="20" y="58" width="3" height="3" fill="#C8E4F4" opacity="0.8"/>
+  <rect x="25" y="58" width="3" height="3" fill="#C8E4F4" opacity="0.8"/>
+  <rect x="20" y="65" width="3" height="3" fill="#C8E4F4" opacity="0.8"/>
+  <rect x="25" y="65" width="3" height="3" fill="#C8E4F4" opacity="0.8"/>
+  <rect x="20" y="72" width="3" height="3" fill="#C8E4F4" opacity="0.8"/>
+  <rect x="25" y="72" width="3" height="3" fill="#C8E4F4" opacity="0.8"/>
+  <!-- Right side sun-lit -->
+  <polygon points="28,88 34,83 34,49 28,54" fill="#A8C4D8"/>
+  <rect x="29" y="62" width="3" height="3" fill="#3A7090" opacity="0.8"/>
+  <rect x="29" y="71" width="3" height="3" fill="#3A7090" opacity="0.8"/>
+  <!-- Roof -->
+  <polygon points="18,54 28,54 34,49 24,49" fill="#8AAEC8"/>
+
+  <!-- Small building RIGHT: slightly taller than left, narrower -->
+  <polygon points="64,88 74,88 74,60 64,60" fill="#4E7A96"/>
+  <rect x="66" y="64" width="3" height="3" fill="#C8E4F4" opacity="0.8"/>
+  <rect x="71" y="64" width="3" height="3" fill="#C8E4F4" opacity="0.8"/>
+  <rect x="66" y="71" width="3" height="3" fill="#C8E4F4" opacity="0.8"/>
+  <rect x="71" y="71" width="3" height="3" fill="#C8E4F4" opacity="0.8"/>
+  <rect x="66" y="78" width="3" height="3" fill="#C8E4F4" opacity="0.8"/>
+  <rect x="71" y="78" width="3" height="3" fill="#C8E4F4" opacity="0.8"/>
+  <!-- Right side sun-lit -->
+  <polygon points="74,88 80,82 80,54 74,60" fill="#A8C4D8"/>
+  <rect x="75" y="67" width="3" height="3" fill="#3A7090" opacity="0.8"/>
+  <rect x="75" y="76" width="3" height="3" fill="#3A7090" opacity="0.8"/>
+  <!-- Roof -->
+  <polygon points="64,60 74,60 80,54 70,54" fill="#8AAEC8"/>
+
+  <!-- Main building front face: shadow side -->
+  <!-- Main building -->
+  <polygon points="34,88 52,88 52,32 34,32" fill="#5A82A0"/>
+  <rect x="37" y="37" width="4" height="4" fill="#C8E4F4" opacity="0.9"/>
+  <rect x="46" y="37" width="4" height="4" fill="#C8E4F4" opacity="0.9"/>
+  <rect x="37" y="46" width="4" height="4" fill="#C8E4F4" opacity="0.9"/>
+  <rect x="46" y="46" width="4" height="4" fill="#C8E4F4" opacity="0.9"/>
+  <rect x="37" y="55" width="4" height="4" fill="#C8E4F4" opacity="0.9"/>
+  <rect x="46" y="55" width="4" height="4" fill="#C8E4F4" opacity="0.9"/>
+  <rect x="37" y="64" width="4" height="4" fill="#C8E4F4" opacity="0.9"/>
+  <rect x="46" y="64" width="4" height="4" fill="#C8E4F4" opacity="0.9"/>
+  <!-- Right face: sun-lit -->
+  <polygon points="52,88 62,81 62,25 52,32" fill="#A8C4D8"/>
+  <rect x="54" y="41" width="4" height="4" fill="#3A7090" opacity="0.9"/>
+  <rect x="54" y="53" width="4" height="4" fill="#3A7090" opacity="0.9"/>
+  <rect x="54" y="65" width="4" height="4" fill="#3A7090" opacity="0.9"/>
+  <!-- Roof -->
+  <polygon points="34,32 52,32 62,25 44,25" fill="#8AAEC8"/>
+
+  <!-- Road drawn ON TOP of building base — grounds the building -->
+  <!-- Tree beside left building -->
+  <rect x="15" y="78" width="2.5" height="10" fill="#7A5130"/>
+  <polygon points="16.25,62 9,79 23.5,79" fill="#4A8C3A"/>
+  <polygon points="16.25,68 10,82 22.5,82" fill="#5C9E4A"/>
+  <rect x="14" y="88" width="106" height="9" fill="#5A5A5A"/>
+  <rect x="20" y="92" width="7" height="1.5" fill="#E8E0C0" rx="0.5"/>
+  <rect x="36" y="92" width="7" height="1.5" fill="#E8E0C0" rx="0.5"/>
+  <rect x="52" y="92" width="7" height="1.5" fill="#E8E0C0" rx="0.5"/>
+  <rect x="68" y="92" width="7" height="1.5" fill="#E8E0C0" rx="0.5"/>
+  <rect x="84" y="92" width="7" height="1.5" fill="#E8E0C0" rx="0.5"/>
+  <rect x="100" y="92" width="7" height="1.5" fill="#E8E0C0" rx="0.5"/>
+
+  <!-- Cars -->
+  <rect x="68" y="85" width="13" height="5" rx="1.5" fill="#3A7ABF"/>
+  <rect x="70" y="82" width="9" height="4" rx="1" fill="#5A9AD4"/>
+  <circle cx="70.5" cy="90.2" r="1.8" fill="#222"/>
+  <circle cx="78.5" cy="90.2" r="1.8" fill="#222"/>
+  <!-- River -->
+  <!-- River: sandy banks + layered water -->
+  <!-- Upper bank -->
+  <!-- Water base (dark) -->
+
+  <!-- Right tree -->
+  <rect x="114" y="81" width="3" height="8" fill="#7A5130"/>
+  <polygon points="115.5,66 109,82 120,82" fill="#4A8C3A"/>
+  <polygon points="115.5,71 110,85 120,85" fill="#5C9E4A"/>
+
+  <!-- Red car: drawn after tree so it appears in front -->
+  <rect x="98" y="85" width="13" height="5" rx="1.5" fill="#C04E2A"/>
+  <rect x="100" y="82" width="9" height="4" rx="1" fill="#D4724F"/>
+  <circle cx="100.5" cy="90.2" r="1.8" fill="#222"/>
+  <circle cx="108.5" cy="90.2" r="1.8" fill="#222"/>
+
+</g>
+<rect x="14" y="12" width="106" height="106" rx="9" fill="none" stroke="#8AB0B8" stroke-width="0.5"/>
+<line x1="133" y1="22" x2="133" y2="110" stroke="#8AB0B8" stroke-width="0.8"/>
+<text x="147" y="51" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="50" font-weight="300" dominant-baseline="central"><tspan fill="#C04E2A">i</tspan><tspan fill="#1B4D5C">BWS</tspan></text>
+<text x="147" y="86" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="400" fill="#4A5C64" dominant-baseline="central" letter-spacing="0.6">Intelligent Building Water Systems</text>
+</svg>
