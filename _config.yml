@@ -10,6 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Dr. Juneseok Lee"
+logo: "/images/ibws_logo_compact_teal.svg"
 title_separator          : "-"
 name                     : &name "Juneseok Lee, Ph.D.,P.E."
 description: &description "Founder of iBWS — Intelligent Building Water Systems | ASCE Fellow | Digital Twins for Water Infrastructure"
