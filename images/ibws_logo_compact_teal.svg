@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 68" width="960" height="136">
+<rect width="480" height="68" rx="10" fill="#1B4D5C"/>
+<text x="18" y="34" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="38" font-weight="300" dominant-baseline="central"><tspan fill="#C04E2A">i</tspan><tspan fill="#ffffff">BWS</tspan></text>
+<line x1="136" y1="16" x2="136" y2="52" stroke="rgba(255,255,255,0.3)" stroke-width="0.8"/>
+<text x="150" y="34" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="400" fill="rgba(255,255,255,0.72)" dominant-baseline="central" letter-spacing="0.4">Intelligent Building Water Systems</text>
+</svg>
