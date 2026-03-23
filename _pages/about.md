@@ -11,7 +11,6 @@ redirect_from:
 <p align="center">
   <img src="/images/ibws_logo.svg" alt="iBWS — Intelligent Building Water Systems" width="600"/>
 </p>
-
 ## Founder of iBWS | Autonomous Digital Twins for Building Water Systems
 
 Dr. Juneseok Lee is a Professor of Civil and Environmental Engineering at Manhattan University (on sabbatical, 2025–2026) and the founder of **iBWS — Intelligent Building Water Systems** — a digital twin framework for autonomous building water infrastructure management. His work integrates physics-based simulation, AI/ML, and multi-objective optimization to transform premise plumbing from reactive management into predictive, closed-loop autonomous control.
