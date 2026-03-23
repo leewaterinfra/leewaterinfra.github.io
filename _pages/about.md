@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="/assets/images/ibws_logo.svg" alt="iBWS — Intelligent Building Water Systems" width="600"/>
+</p>
 ---
 permalink: /
 title: "Dr. Juneseok Lee"
