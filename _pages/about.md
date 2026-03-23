@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="/assets/images/ibws_logo.svg" alt="iBWS — Intelligent Building Water Systems" width="600"/>
+  <img src="/images/ibws_logo.svg" alt="iBWS — Intelligent Building Water Systems" width="600"/>
 </p>
 
 ## Founder of iBWS | Autonomous Digital Twins for Building Water Systems
