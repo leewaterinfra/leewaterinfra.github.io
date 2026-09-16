@@ -12,6 +12,8 @@ Water in a pipe is never just H₂O. It carries gases, minerals, disinfectant, m
 
 Since 2002, I have studied what happens to that water inside the buildings where we live, learn, and heal: how it moves, how it changes, and when it stops being safe.
 
+<p align="center"><img src="/images/web/water-journey.svg" alt="Between the street and the tap, water moves, reacts, heats, and supports life" style="width:100%;max-width:900px;"></p>
+
 <div class="home-paths">
   <a class="home-path" href="/water/">
     <span class="home-path-title">Water</span>
@@ -37,6 +39,6 @@ Since 2002, I have studied what happens to that water inside the buildings where
 </style>
 
 <div class="home-quote">
-<strong>吞舟之魚不遊於支流</strong><br>
-<em>A fish large enough to swallow a boat does not swim in tributaries.</em>
+<strong>上善若水</strong><br>
+<em>The highest good is like water.</em> (Laozi, <em>Tao Te Ching</em>, ch. 8)
 </div>
