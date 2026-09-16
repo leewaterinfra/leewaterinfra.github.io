@@ -16,9 +16,9 @@ redirect_from:
 
 A new version is coming soon.
 
-Juneseok Lee, Ph.D., P.E.
-Department of Civil and Environmental Engineering, Manhattan University
-Contact: Juneseok.Lee@manhattan.edu
----
+Juneseok Lee, Ph.D., P.E.<br>
+Department of Civil and Environmental Engineering<br>
+Manhattan University<br>
+Contact: [Juneseok.Lee@manhattan.edu](mailto:Juneseok.Lee@manhattan.edu)
 
 
