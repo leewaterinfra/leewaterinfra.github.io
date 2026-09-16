@@ -51,8 +51,8 @@ My work asks how these layers change, and why, across three connected questions.
 Temperature and time govern most reactions in water. Flow governs temperature and time. People govern flow. Physical, chemical, and biological integrity are therefore not separate topics. They are one system, shaped by the building and the way we use it.
 
 <figure class="photo-single">
-  <img src="/images/web/premise-plumbing-lab.jpg" alt="Premise plumbing laboratory">
-  <figcaption>Premise plumbing laboratory: hands-on student research</figcaption>
+  <img src="/images/web/premise-plumbing-lab.jpg" alt="Virginia Tech premise plumbing laboratory">
+  <figcaption>Virginia Tech premise plumbing laboratory (during my Ph.D. work)</figcaption>
 </figure>
 
 <style>

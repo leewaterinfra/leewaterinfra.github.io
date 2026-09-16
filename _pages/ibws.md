@@ -34,22 +34,22 @@ Building water systems, the plumbing inside hospitals, hotels, schools, and home
 
 ### Six Validated Components
 
-**1 · P03 · BIM2WNTR — Automated Model Generation**  
+**1 · BIM2WNTR — Automated Model Generation**  
 Converts Building Information Models (BIM) to WNTR-ready hydraulic simulation networks automatically. Achieves R²>0.99 accuracy in under 10 seconds.
 
-**2 · P00 · Pump Scheduling Optimization**  
+**2 · Pump Scheduling Optimization**  
 Multi-objective pump scheduling using NSGA-II and 54,000 HPC simulations. Achieves **45.6% energy savings** relative to conventional always-on scheduling.
 
-**3 · P06 · Thermal Risk Modeling — Legionella Prevention**  
+**3 · Thermal Risk Modeling — Legionella Prevention**  
 Physics-based thermal simulation identifying zones in the 25–45°C growth range, triggering automated flushing protocols before outbreak conditions develop.
 
-**4 · P04 · Hydraulic Transient Analysis**  
+**4 · Hydraulic Transient Analysis**  
 Pressure surge quantification across 96 building scenarios using TSNet. Identifies transient-induced pipe failure risks and informs protective control strategies.
 
-**5 · P01 · One Water Simulation**  
+**5 · One Water Simulation**  
 Coupled potable-drainage simulation enabling simultaneous modeling of water supply, greywater recycling, and drainage systems.
 
-**6 · P18/P19 · iBWSS — Water Sustainability Optimization**  
+**6 · iBWSS — Water Sustainability Optimization**  
 Multi-objective optimization of rainwater harvesting, greywater recycling, and solar-assisted water heating. Achieves up to **62% water self-sufficiency** across 12 U.S. cities.
 
 ---
@@ -234,7 +234,7 @@ Multi-objective optimization of rainwater harvesting, greywater recycling, and s
 
 ### Publications
 
-Selected iBWS-related publications are listed on the [Publications](/publications/) page. Key venues include ASCE Journal of Water Resources Planning and Management, AWWA Water Science, Journal of Hydraulic Engineering, and ASCE/ASEE conference proceedings.
+Selected iBWS-related publications are listed on the [Publications](/publications/) page. Key venues include ASCE Journal of Water Resources Planning and Management, AWWA Water Science, and ASCE/ASEE conference proceedings.
 
 ---
 
