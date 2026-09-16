@@ -13,7 +13,7 @@ title                    : "Dr. Juneseok Lee"
 logo: "/images/ibws_logo_compact_teal.svg"
 title_separator          : "-"
 name                     : &name "Juneseok Lee, Ph.D.,P.E."
-description: &description "Founder of iBWS — Intelligent Building Water Systems | ASCE Fellow | Digital Twins for Water Infrastructure"
+description: &description "What is the water really doing? Building water systems research by Juneseok Lee"
 url                      : "https://leewaterinfra.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
                                                             # Updated avatar 2025
@@ -26,7 +26,7 @@ repository               : "leewaterinfra/leewaterinfra.github.io"
 author:
   name             : "Juneseok Lee"
   avatar           : "https://leewaterinfra.github.io/images/leefaculty2025.jpg"
-  bio: "Professor of Civil & Environmental Engineering | Founder, iBWS — Intelligent Building Water Systems | ASCE Fellow"
+  bio: "Professor of Civil & Environmental Engineering · Building water systems"
   location: "Manhattan University"
   email            : "juneseok.lee@manhattan.edu"
 

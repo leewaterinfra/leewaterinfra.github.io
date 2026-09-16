@@ -1,19 +1,34 @@
 ---
 permalink: /ibws/
 title: "iBWS: Intelligent Building Water Systems"
-excerpt: "Autonomous digital twins for building water infrastructure"
+excerpt: "Seeing, understanding, and acting on water inside buildings"
 author_profile: true
 ---
 <br>
 <p align="center">
-  <img src="/images/ibws_logo.svg" alt="iBWS — Intelligent Building Water Systems" width="600"/>
+  <img src="/images/ibws_logo.svg" alt="iBWS — Intelligent Building Water Systems" width="560"/>
 </p>
 
-## Autonomous Digital Twins for Building Water Infrastructure
+The [phenomena](/water/) inside building pipes are hard to observe directly. iBWS is how I try to see them, understand them, and eventually act on them.
 
-**iBWS** (Intelligent Building Water Systems) is a 10-year research program founded by Dr. Juneseok Lee developing autonomous digital twin technology for building-scale water infrastructure. Building water systems — the premise plumbing networks within hospitals, hotels, universities, and residential buildings — cause **8,000–18,000 Legionella-related hospitalizations annually** in the U.S. and remain the least-monitored segment of drinking water infrastructure.
+| | Question | Tools |
+|---|---|---|
+| **Seeing** | What is the water doing right now? | Sensors, building information models, data |
+| **Understanding** | Why is it doing that? | Physics-based hydraulic, transient, and thermal models; machine learning; physics-informed learning |
+| **Acting** | What should the building do next? | Digital twins, multi-objective optimization, AI agents |
 
-iBWS transforms building water management from reactive to autonomous through a four-layer architecture: data integration, physics-based simulation engines, AI-driven intelligence, and autonomous orchestration.
+Building water systems, the plumbing inside hospitals, hotels, schools, and homes, are linked to **8,000–18,000 Legionella-related hospitalizations annually** in the U.S. and remain the least-monitored part of drinking water infrastructure.
+
+<figure class="photo-single">
+  <img src="/images/web/talk-ibws-2025.jpg" alt="Presenting the iBWS coupled components, 2025">
+  <figcaption>Presenting the iBWS coupled components, Mobile, Alabama, 2025</figcaption>
+</figure>
+
+<style>
+.photo-single{margin:1.5rem 0;}
+.photo-single img{width:100%;max-width:340px;border-radius:8px;}
+.photo-single figcaption{font-size:.85em;color:#666;margin-top:.4rem;}
+</style>
 
 ---
 
@@ -83,7 +98,7 @@ Multi-objective optimization of rainwater harvesting, greywater recycling, and s
 <line x1="158" y1="60" x2="182" y2="60" stroke="#888780" stroke-width="1.5" marker-end="url(#ag1)"/>
 <rect x="184" y="30" width="172" height="60" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
 <text x="270" y="52" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="#0C447C">iBWS agent</text>
-<text x="270" y="72" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="11" fill="#185FA5">GPT-4o + physics models</text>
+<text x="270" y="72" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="11" fill="#185FA5">LLM + physics models</text>
 <line x1="356" y1="60" x2="380" y2="60" stroke="#888780" stroke-width="1.5" marker-end="url(#ag1)"/>
 <rect x="382" y="30" width="162" height="60" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
 <text x="463" y="52" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="#085041">Decision report</text>
@@ -122,7 +137,7 @@ Multi-objective optimization of rainwater harvesting, greywater recycling, and s
 <line x1="144" y1="52" x2="168" y2="52" stroke="#888780" stroke-width="1.5" marker-end="url(#ag2)"/>
 <rect x="170" y="22" width="165" height="60" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
 <text x="252" y="44" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="#0C447C">iBWS agent</text>
-<text x="252" y="64" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="11" fill="#185FA5">GPT-4o + physics models</text>
+<text x="252" y="64" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="11" fill="#185FA5">LLM + physics models</text>
 <line x1="335" y1="52" x2="359" y2="52" stroke="#888780" stroke-width="1.5" marker-end="url(#ag2)"/>
 <rect x="361" y="22" width="168" height="60" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
 <text x="445" y="44" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="#27500A">BAS / BMS system</text>
@@ -164,7 +179,7 @@ Multi-objective optimization of rainwater harvesting, greywater recycling, and s
 <line x1="178" y1="52" x2="202" y2="52" stroke="#888780" stroke-width="1.5" marker-end="url(#ag3)"/>
 <rect x="204" y="22" width="196" height="60" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1"/>
 <text x="302" y="44" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="13" font-weight="700" fill="#0C447C">iBWS autonomous agent</text>
-<text x="302" y="64" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="11" fill="#185FA5">GPT-4o + all validated models</text>
+<text x="302" y="64" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="11" fill="#185FA5">LLM + all validated models</text>
 <line x1="400" y1="52" x2="424" y2="52" stroke="#888780" stroke-width="1.5" marker-end="url(#ag3)"/>
 <rect x="426" y="22" width="196" height="60" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
 <text x="524" y="44" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="#27500A">Smart infrastructure</text>
@@ -199,7 +214,7 @@ Multi-objective optimization of rainwater harvesting, greywater recycling, and s
 
 * **Simulation engines**: WNTR, PySWMM, TSNet, custom thermal models
 * **Optimization**: NSGA-II, multi-objective Pareto optimization
-* **AI orchestration**: OpenAI Agents SDK, GPT-4o, physics-informed neural surrogates
+* **AI orchestration**: LLM agent frameworks, physics-informed neural surrogates
 * **Data integration**: BIM2WNTR automated pipeline
 * **Computing**: HPC-enabled simulation (NAIRR/ACCESS aligned)
 
@@ -225,11 +240,11 @@ Selected iBWS-related publications are listed on the [Publications](/publication
 
 ### Collaboration & Contact
 
-Dr. Lee welcomes collaboration with researchers, building owners, utilities, and industry partners interested in intelligent building water systems.
+I welcome collaboration with researchers, building owners, utilities, and industry partners interested in intelligent building water systems.
 
 **Email**: juneseok.lee@manhattan.edu  
 **Google Scholar**: [View iBWS-related publications](https://scholar.google.com/citations?user=VPOh9yoAAAAJ&hl=en)
 
 ---
 
-*iBWS is the 10-year research and commercialization vision of Dr. Juneseok Lee, building on 24 years of validated building water systems research (2002–present).*
+*iBWS builds on building water systems research since 2002.*

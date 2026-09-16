@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Research Impact
-
-**2,000+ citations** | **130+ publications** | **7 books** | **h-index visible on [Google Scholar](https://scholar.google.com/citations?user=zu_URxAAAAAJ&hl=en)**
-
-
-
 ## Books & Edited Volumes
 
 ### Recent Books (2021-2025)
@@ -92,45 +86,12 @@ Lee, J., & Meehan, M. (2017). Survival Analysis of Water Service Lines utilizing
 
 ### 2020
 - **Proctor, C. R., Lee, J.**, Yu, D., Shah, A. D., & Whelton, A. J. (2020). **Wildfire caused widespread drinking water distribution network contamination.** *AWWA Water Science*, 2(4), e1183.  
-  *(Camp Fire, Paradise, California study - widely cited)*
+  *(Camp Fire, Paradise, California)*
 
 - **Lee, J.**, McNeil, S., & Li, Q. J. (2020). Robust and Transparent Method to Measure Water Infrastructure Performance in the United States. *ASCE Journal of Water Resources Planning and Management*, 147(3).
 
 ---
 
-## Research Areas & Key Contributions
-
-### Water Infrastructure Analytics
-- Predictive modeling for water main failures
-- Asset management decision support systems
-- Infrastructure performance measurement
-
-### Premise Plumbing & Building Water Systems
-- Integrated hydraulic and water quality modeling
-- Wildfire contamination and recovery
-- Water age and stagnation analysis
-
-### Water Demand & Conservation
-- Machine learning for demand forecasting
-- Price elasticity analysis
-- Meter installation impact studies
-
-### Resilience & Sustainability
-- Climate adaptation strategies
-- Decentralized water systems
-- Water-energy nexus
-
----
-
 ## Complete Publication List
 
-**For the full list of 130+ publications, citation metrics, and co-author network:**
-
-<div style="text-align: center; margin: 30px 0;">
-  <a href="https://scholar.google.com/citations?user=VPOh9yoAAAAJ&hl=en" 
-     style="display: inline-block; padding: 15px 30px; background-color: #4285f4; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px;">
-    📚 View Complete Profile on Google Scholar
-  </a>
-</div>
-
----
+The full publication list is on [Google Scholar](https://scholar.google.com/citations?user=VPOh9yoAAAAJ&hl=en).
