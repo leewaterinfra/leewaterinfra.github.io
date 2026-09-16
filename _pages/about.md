@@ -39,6 +39,7 @@ Since 2002, I have studied what happens to that water inside the buildings where
 </style>
 
 <div class="home-quote">
-<strong>上善若水</strong><br>
-<em>The highest good is like water.</em> (Laozi, <em>Tao Te Ching</em>, ch. 8)
+<strong>上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。</strong><br>
+<em>The highest good is like water. Water benefits all things and does not compete; it dwells in places that people disdain, and thus it is near to the Way.</em><br>
+Laozi, <em>Tao Te Ching</em> (道德經), Chapter 8
 </div>
