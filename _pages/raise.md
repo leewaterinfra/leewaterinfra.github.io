@@ -228,7 +228,7 @@ Riverdale, NY 10471
 
 📧 juneseok.lee@manhattan.edu  
 📞 718-862-7318  
-🔗 [Google Scholar](https://scholar.google.com/citations?user=VPOh9yoAAAAJ&hl=en) | [Faculty Profile](https://manhattan.edu/campus-directory/jlee04) | [GitHub](https://github.com/leewaterinfra)
+🔗 [Google Scholar](https://scholar.google.com/citations?user=VPOh9yoAAAAJ&hl=en) | [Faculty Profile](https://manhattan.edu/directory/juneseok.lee) | [GitHub](https://github.com/leewaterinfra)
 
 ---
 
