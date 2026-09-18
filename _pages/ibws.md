@@ -9,7 +9,9 @@ author_profile: true
   <img src="/images/ibws_logo.svg" alt="iBWS — Intelligent Building Water Systems" width="560"/>
 </p>
 
-The [phenomena](/water/) inside building pipes are hard to observe directly. iBWS is how I try to see them, understand them, and eventually act on them.
+Building water systems, the plumbing inside hospitals, hotels, schools, and homes, are linked to **8,000–18,000 Legionella-related hospitalizations annually** in the U.S. and remain the least-monitored part of drinking water infrastructure. The [phenomena](/water/) that drive that risk are hard to observe directly.
+
+iBWS is how I try to see them, understand them, and act on them.
 
 | | Question | Tools |
 |---|---|---|
@@ -23,13 +25,7 @@ The phenomena are too coupled to observe directly, too slow to simulate in real 
 
 * **High-performance computing** — the physics are coupled and the operating space is enormous. A single building spans thousands of combinations of demand, temperature, occupancy, and season. That space has to be computed thoroughly, not sampled by hand.
 * **Surrogate models** — a coupled physics run takes minutes to hours, while optimization and real-time control need thousands to millions of evaluations. Surrogates trained on HPC results answer in milliseconds while carrying the physics behind them. HPC buys accuracy; surrogates buy speed.
-* **Agent-based orchestration** — a real decision, such as flushing a riser or lowering a setpoint, draws on several models, live sensor data, plumbing codes, and competing objectives at once, continuously. An agent coordinates those tools and explains its reasoning to the person who decides.
-
-What we deliver goes directly into people's bodies. Every automated action must be explainable and reversible, and the last decision stays with an engineer.
-
----
-
-Building water systems, the plumbing inside hospitals, hotels, schools, and homes, are linked to **8,000–18,000 Legionella-related hospitalizations annually** in the U.S. and remain the least-monitored part of drinking water infrastructure.
+* **Agent-based orchestration** — a real decision, such as flushing a riser or lowering a setpoint, draws on several models, live sensor data, plumbing codes, and competing objectives at once, continuously. An agent coordinates those tools and explains its reasoning to the engineer responsible for the building.
 
 <figure class="photo-single">
   <img src="/images/web/talk-ibws-2025.jpg" alt="Presenting the iBWS coupled components, 2025">
@@ -44,7 +40,7 @@ Building water systems, the plumbing inside hospitals, hotels, schools, and home
 
 ---
 
-### Six Validated Components
+### Six Components
 
 **1 · BIM2WNTR — Automated Model Generation**  
 Converts Building Information Models (BIM) to WNTR-ready hydraulic simulation networks automatically. Achieves R²>0.99 accuracy in under 10 seconds.
@@ -67,6 +63,9 @@ Multi-objective optimization of rainwater harvesting, greywater recycling, and s
 ---
 
 ### Three Levels of Autonomous Control
+
+What a building delivers goes directly into people's bodies, so autonomy here means something narrower than "no people involved." Engineers set the operating envelope, define what the system may do on its own, and review what it did. Within that envelope, routine actions run unattended; anything outside it returns to a person. Every automated action must be bounded, explainable, and reversible.
+
 
 <style>
 .ibws-card{background:#fff;border:1px solid #dddbd2;border-radius:12px;overflow:hidden;margin-bottom:1.25rem;box-shadow:0 1px 4px rgba(0,0,0,0.06);}
@@ -175,7 +174,7 @@ Multi-objective optimization of rainwater harvesting, greywater recycling, and s
 <div class="ibws-header">
   <span class="ibws-badge badge-l3">Level 3</span>
   <span class="ibws-title">Fully Autonomous</span>
-  <span class="ibws-sub">Agent monitors · decides · executes · reports — no human in control loop</span>
+  <span class="ibws-sub">Agent monitors · decides · executes · reports — routine actions run unattended</span>
   <span class="ibws-time">10-year vision · 2035+</span>
 </div>
 <div class="ibws-diagram">
@@ -202,13 +201,13 @@ Multi-objective optimization of rainwater harvesting, greywater recycling, and s
 <line x1="622" y1="52" x2="638" y2="52" stroke="#5F5E5A" stroke-width="1" stroke-dasharray="4 3" marker-end="url(#ar3)"/>
 <path d="M 524,82 L 524,116 L 94,116 L 94,82" fill="none" stroke="#185FA5" stroke-width="1.5" marker-end="url(#at3)"/>
 <text x="309" y="133" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="12" font-weight="600" fill="#185FA5">continuous 24/7 autonomous control loop</text>
-<text x="309" y="150" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="11" fill="#5F5E5A" font-style="italic">no human decision-making in the control loop</text>
+<text x="309" y="150" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="11" fill="#5F5E5A" font-style="italic">routine decisions run without human intervention</text>
 <text x="680" y="110" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#888780" font-weight="700">STAKEHOLDERS</text>
 <text x="680" y="124" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#888780">audit log only</text>
 </svg>
 </div>
-<div class="ibws-who who-3"><strong>WHO ACTS:</strong> The iBWS autonomous agent — monitors, decides, and executes all water system management actions without human involvement. Stakeholders receive audit reports only.</div>
-<div class="ibws-caption">The fully autonomous iBWS operates as a closed-loop system: real-time sensor data feeds continuously into the agent, which runs validated physics simulations, makes decisions using multi-objective optimization, and issues direct commands to smart infrastructure. Analogous to how HVAC building automation systems operate today — but for water. This is the iBWS 10-year research and commercialization target.</div>
+<div class="ibws-who who-3"><strong>WHO ACTS:</strong> The iBWS autonomous agent — monitors, decides, and executes routine water management actions within an envelope set by engineers. Conditions outside that envelope escalate to a person. Stakeholders receive audit reports.</div>
+<div class="ibws-caption">Within its approved envelope, iBWS operates as a closed-loop system: real-time sensor data feeds continuously into the agent, which runs validated physics simulations, makes decisions using multi-objective optimization, and issues direct commands to smart infrastructure. Analogous to how HVAC building automation systems operate today — but for water. This is the iBWS 10-year research and commercialization target.</div>
 </div>
 
 <div class="ibws-legend">
