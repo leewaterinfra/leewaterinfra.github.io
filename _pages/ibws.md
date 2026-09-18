@@ -17,6 +17,18 @@ The [phenomena](/water/) inside building pipes are hard to observe directly. iBW
 | **Understanding** | Why is it doing that? | Physics-based hydraulic, transient, and thermal models; machine learning; physics-informed learning |
 | **Acting** | What should the building do next? | Digital twins, multi-objective optimization, AI agents |
 
+### Why this computation is necessary
+
+The phenomena are too coupled to observe directly, too slow to simulate in real time, and too consequential to automate blindly.
+
+* **High-performance computing** — the physics are coupled and the operating space is enormous. A single building spans thousands of combinations of demand, temperature, occupancy, and season. That space has to be computed thoroughly, not sampled by hand.
+* **Surrogate models** — a coupled physics run takes minutes to hours, while optimization and real-time control need thousands to millions of evaluations. Surrogates trained on HPC results answer in milliseconds while carrying the physics behind them. HPC buys accuracy; surrogates buy speed.
+* **Agent-based orchestration** — a real decision, such as flushing a riser or lowering a setpoint, draws on several models, live sensor data, plumbing codes, and competing objectives at once, continuously. An agent coordinates those tools and explains its reasoning to the person who decides.
+
+What we deliver goes directly into people's bodies. Every automated action must be explainable and reversible, and the last decision stays with an engineer.
+
+---
+
 Building water systems, the plumbing inside hospitals, hotels, schools, and homes, are linked to **8,000–18,000 Legionella-related hospitalizations annually** in the U.S. and remain the least-monitored part of drinking water infrastructure.
 
 <figure class="photo-single">
